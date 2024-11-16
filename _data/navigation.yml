@@ -9,8 +9,8 @@ main:
   - title: "Talks"
     url: /talks/  
 
- # - title: "Blog Posts"
- #   url: /year-archive/
+  - title: "Supervision"
+    url: /supervision/
   
   - title: "Awards"
     url: /awards/
