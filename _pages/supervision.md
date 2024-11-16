@@ -6,15 +6,17 @@ author_profile: true
 ---
 
 
-- **Undergraduate Student,**  
-  Calvin Guzman: 5G+ network simulator, Department of Computer Science, Tennessee Tech University, TN, USA.  
-  *Fall 2022–Spring 2023*
+- **Calvin Guzman (Undergraduate Student, *Fall 2022 – Spring 2023*),**  
+  5G+ Network Simulator,
+  Department of Computer Science, Tennessee Tech University, TN, USA.  
+  
 
-- **Undergraduate Student,**  
-  Minh-nghi Vu: 5G+ network simulator, Department of Computer Science, Tennessee Tech University, TN, USA.  
-  *Spring 2023*
+- **Minh-nghi Vu (Undergraduate Student, *Spring 2023*),**  
+  5G+ network simulator,
+  Department of Computer Science, Tennessee Tech University, TN, USA.  
+  
 
-- **Undergraduate Student,**  
-  Matthew Burst: 5G+ network simulator, Department of Computer Science, Tennessee Tech University, TN, USA.  
-  *2023–2024*
+- **Matthew Burst (Undergraduate Student, *Fall 2023 – Spring2024*),**  
+  5G+ network simulator, Department of Computer Science, Tennessee Tech University, TN, USA.  
+  
 
