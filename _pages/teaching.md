@@ -15,11 +15,11 @@ author_profile: true
 
 - ELC321: Digital Communication Systems.
 
-### Teaching Assistant (American University in Cairo, Egypt, *2021-2022*),
+### Graduate Teaching Assistant (American University in Cairo, Egypt, *2021-2022*),
 
 - DSCI2411: Data Visualization.​
 
-### Teaching Assistant (​​Modern Academy for Engineering and Technology, Egypt, *2015 - 2020*),
+### Graduate Teaching Assistant (​​Modern Academy for Engineering and Technology, Egypt, *2015 - 2020*),
 
 - CMP111: Logic Circuit Design.      
 
