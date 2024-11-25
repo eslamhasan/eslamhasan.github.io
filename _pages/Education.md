@@ -15,7 +15,7 @@ author_profile: true
   
 
 - **Diploma in Information Technology (*June 2015*),**  
-  *Information Technology Institute, Mobile and Open Source Applications Developer Program, Cairo, Egypt*
+  *Information Technology Institute, Mobile and Open Source Applications Developer Program, Cairo, Egypt.*
 
 - **B.Sc. in Electronics and Communications Engineering (*June 2013*),**  
   *Mansoura University, Electronics and Communications Department, Faculty of Engineering, Mansoura, Egypt.*  
