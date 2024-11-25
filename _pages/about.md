@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: right;">
+<div style="text-align: left;">
 Eslam Hasan is a PhD candidate in the Computer Science Department, Faculty of Engineering, Tennessee Tech University, Cookeville, TN, USA. He is an experienced academic with 7 years of research and teaching experience in prestigious institutes, including the American University in Cairo, the Modern Academy for Engineering and Technology, and Mansoura University. Mr. Hasan has a research portfolio of 4 journal papers, 5 conference papers, and one magazine. His research interests include but are not limited to AI, cybersecurity, and 5G+ wireless networks.
 </div>
 
