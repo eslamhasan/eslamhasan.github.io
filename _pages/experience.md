@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-### Academic Experience
+# Academic Experience
 
 - **Tennessee Tech University (Cookeville, TN, USA, *2022-present*),**  
   *Graduate Research Assistant.*
@@ -22,7 +22,7 @@ author_profile: true
   *Graduate Teaching Assistant.*
 
 
-#### Industry Experience
+# Industry Experience
 
 - **700Apps (Cairo, Egypt, *Mar. 2015 – Jun. 2015*),**  
   *Scrum Master Intern.*
