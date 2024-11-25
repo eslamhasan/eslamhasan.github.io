@@ -21,6 +21,7 @@ author_profile: true
 - **Modern Academy for Engineering and Technology (Cairo, Egypt, *2015-2020*),**  
   *Graduate Teaching Assistant.*
 
+
 #### Industry Experience
 
 - **700Apps (Cairo, Egypt, *Mar. 2015 – Jun. 2015*),**  
