@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-- **PhD in Computer Science (*Fall 2022 – Spring 2025*),**  
+- **PhD in Computer Science (*2022 – 2025*),**  
   *Tennessee Tech University, Computer Science Department, Cookeville, TN, USA.*
   
 
